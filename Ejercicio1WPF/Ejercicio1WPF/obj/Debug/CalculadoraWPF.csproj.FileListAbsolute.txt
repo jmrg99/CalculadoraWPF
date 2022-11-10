@@ -1,0 +1,30 @@
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\bin\Debug\Ejercicio1WPF.exe.config
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\bin\Debug\Ejercicio1WPF.exe
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\bin\Debug\Ejercicio1WPF.pdb
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\CalculadoraWPF.csprojAssemblyReference.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\MainWindow.g.cs
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\App.g.cs
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF_MarkupCompile.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF_MarkupCompile.lref
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\MainWindow.baml
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.g.resources
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.Properties.Resources.resources
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\CalculadoraWPF.csproj.GenerateResource.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\CalculadoraWPF.csproj.CoreCompileInputs.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.exe
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.pdb
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\bin\Debug\Ejercicio1WPF.exe.config
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\bin\Debug\Ejercicio1WPF.exe
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\bin\Debug\Ejercicio1WPF.pdb
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\CalculadoraWPF.csprojAssemblyReference.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\MainWindow.g.cs
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\App.g.cs
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF_MarkupCompile.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF_MarkupCompile.lref
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\MainWindow.baml
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.g.resources
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.Properties.Resources.resources
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\CalculadoraWPF.csproj.GenerateResource.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\CalculadoraWPF.csproj.CoreCompileInputs.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.exe
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\Calculadora\Ejercicio1WPF\Ejercicio1WPF\obj\Debug\Ejercicio1WPF.pdb
